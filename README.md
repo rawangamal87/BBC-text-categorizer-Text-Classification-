@@ -10,10 +10,10 @@ Manual categorization is time-consuming and error-prone. Automating this process
 
 ⚙️ Technologies Used:
 Python
-TensorFlow / Keras (for deep learning)
-Scikit-learn (for label encoding, metrics)
-Dash by Plotly (for interactive web interface)
-Kaggle BBC News Dataset (as training data)
+- TensorFlow / Keras (for deep learning)
+- Scikit-learn (for label encoding, metrics)
+- Dash by Plotly (for interactive web interface)
+- Kaggle BBC News Dataset (as training data)
 
 
 📂 Workflow Breakdown:
