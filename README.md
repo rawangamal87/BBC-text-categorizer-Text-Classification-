@@ -23,6 +23,7 @@ Cleaned the text (lowercasing, removing symbols)
 Tokenized and padded sequences to fixed length
 
 Encoded the categories into numeric labels
+
 2. Model Building:
 Used an Embedding Layer to convert words into dense vectors
 
@@ -31,6 +32,7 @@ Applied GlobalAveragePooling1D to flatten sequences
 Used Dense layers for classification
 
 Trained on ~2000 news articles with 5 categories
+
 3. Evaluation:
 Achieved ~99.3% training accuracy and ~94.8% validation accuracy
 
