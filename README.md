@@ -41,4 +41,3 @@ Python
 4. Deployment:
 - Built a Dash web app for users to input a full article and get real-time category predictions
 
-- Prepared the project for deployment on Render.com
